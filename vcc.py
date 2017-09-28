@@ -1,4 +1,4 @@
-second branch edits
+second branch edits!
 
 def starting_question(starting_text, ending_text="You have rejected the wisdom of the ancients. Goodbye!"):
 	var = raw_input(starting_text).lower()
